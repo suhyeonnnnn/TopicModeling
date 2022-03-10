@@ -1,1 +1,2 @@
-# eWOM-Paper 논문 코드
+# eWOM-Paper 
+eWOM 논문 코드
